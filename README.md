@@ -1,22 +1,22 @@
-# 📦 InventoryX
+# InventoryX
 
 InventoryX is a modern, responsive, and feature-rich **Inventory Management System** designed to streamline tracking of products, suppliers, orders, and activity logs. Built on the **MERN** stack (MongoDB, Express, React, Node.js), it provides real-time stock insights, visual sales/stock analytics, and role-based access control.
 
 ---
 
-## 🚀 Key Features
+## Key Features
 
-*   **📊 Dynamic Dashboard**: Overview of key business metrics (total inventory value, low-stock items, pending orders) with beautiful data visualizations powered by **Recharts**.
-*   **🔑 Role-Based Authentication**: Secure login and signup with JWT token-based authentication and protected routes.
-*   **🗂️ Catalog Management**: Search, filter, page, and manage products with different categories, pricing, and stock levels.
-*   **📦 Real-time Inventory Tracking**: Add, update, and delete inventory levels with automated low-stock warnings.
-*   **🧾 Order & Supplier Management**: Track supplier details and keep tabs on order request pipelines.
-*   **📝 Activity Logs**: Auditable logs of all system events to keep track of user and database actions.
-*   **⚙️ Settings Panel**: Customize and view system preferences and user profile configurations.
+*   **Dynamic Dashboard**: Overview of key business metrics (total inventory value, low-stock items, pending orders) with beautiful data visualizations powered by **Recharts**.
+*   **Role-Based Authentication**: Secure login and signup with JWT token-based authentication and protected routes.
+*   **Catalog Management**: Search, filter, page, and manage products with different categories, pricing, and stock levels.
+*   **Real-time Inventory Tracking**: Add, update, and delete inventory levels with automated low-stock warnings.
+*   **Order & Supplier Management**: Track supplier details and keep tabs on order request pipelines.
+*   **Activity Logs**: Auditable logs of all system events to keep track of user and database actions.
+*   **Settings Panel**: Customize and view system preferences and user profile configurations.
 
 ---
 
-## 🛠️ Technology Stack
+## Technology Stack
 
 ### Frontend
 *   **React (v19)**: Component-based UI rendering.
@@ -34,7 +34,7 @@ InventoryX is a modern, responsive, and feature-rich **Inventory Management Syst
 
 ---
 
-## 📁 Project Structure
+## Project Structure
 
 ```text
 Inventory/
@@ -65,7 +65,7 @@ Inventory/
 
 ---
 
-## ⚙️ Installation & Setup
+## Installation & Setup
 
 ### Prerequisites
 Make sure you have the following installed on your machine:
@@ -122,7 +122,7 @@ Open your browser and navigate to `http://localhost:5173` to see the application
 
 ---
 
-## 🔗 API Endpoints
+## API Endpoints
 
 | Method | Endpoint | Description | Access |
 | :--- | :--- | :--- | :--- |
@@ -136,7 +136,6 @@ Open your browser and navigate to `http://localhost:5173` to see the application
 | **GET** | `/api/logs` | Retrieve action and system event logs | Private |
 
 ---
-
-## 👥 Authors
-
+## Authors
 Developed and maintained by **Ujwal** and **Bhavya**.
+
